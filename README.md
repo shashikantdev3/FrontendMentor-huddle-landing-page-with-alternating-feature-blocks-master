@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution](https://github.com/shashikantdev3/FrontendMentor-huddle-landing-page-with-alternating-feature-blocks-master)
-- Live Site URL: [Live Preview](https://your-live-site-url.com)
+- Live Site URL: [Live Preview](https://shashikantdev3.github.io/FrontendMentor-huddle-landing-page-with-alternating-feature-blocks-master/)
 
 ## My process
 
